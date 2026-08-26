@@ -62,7 +62,7 @@ input[type="text"]::placeholder {
   color: #B8B0A0;
 }
 
-/*button {
+button {
   padding: 10px 16px;
   background-color: #080808;
   border: none;
@@ -131,7 +131,7 @@ li button:hover {
   background: none;
   color: #080808;
 }
-*/
+
 #error-message {
   color: #080808;
   opacity: 0.4;
